@@ -186,7 +186,7 @@ primaryClass={cs.CV}
 }
 @misc{ai4innov-fashion,
 author = {Abdoulaye SAYOUTI SOULEYMANE and Gilles HACHEME and Jean-Eudes AYILO and Nouréini SAYOUTI SOULEYMANE},
-title = {Ai4innov: -----------},
+title = {Ai4innov: Afro Fashion Stable Diffusion},
 year = {2023},
 publisher = {GitHub},
 journal = {GitHub repository},
